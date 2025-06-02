@@ -1,4 +1,6 @@
 /stripe
+/inngest
+/op
 /zed
 /gcloud
 /fish
@@ -10,3 +12,4 @@
 /configstore
 /iterm2
 .mono/
+/gh
