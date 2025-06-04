@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(brew tap:*)",
+      "Bash(mv:*)"
+    ],
+    "deny": []
+  },
+  "enableAllProjectMcpServers": false
+}
